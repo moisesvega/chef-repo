@@ -1,2 +1,8 @@
 .rake_test_cache
+.DS_Store
 
+# Gemfile.lock #
+Gemfile.lock
+
+# Folders #
+vendor/
